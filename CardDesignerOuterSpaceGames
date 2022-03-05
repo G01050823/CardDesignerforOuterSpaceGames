@@ -1,0 +1,18 @@
+git Outer_Space_Card_Games
+git open_card_game_that_says_outer_space
+git read_instructions_when_preparing_cards
+git assemble_cards_in_order
+git hero_cards
+git enemy_cards
+git planet_cards
+git helper_cards
+git alien_cards
+git spaceship_cards
+git begin_card_game_wait_for_peson's_turn
+git make_move_until_enemy_card_is_set
+git place hero_card_in_right_timing
+git take_down_both_card_for_next_attack
+git put_down_card_of_next_mode
+git use_final_attack_on_alien_card
+git match_set_on_card_game
+git last_man_standing_wins
